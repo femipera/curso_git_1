@@ -1,1 +1,2 @@
 Teste de texto para estudo git, alteração
+teste nova branch, para teste de novo e de novo
